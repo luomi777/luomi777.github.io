@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Your HTML content goes here -->
 <!doctype html>
 <html>
   <head>
